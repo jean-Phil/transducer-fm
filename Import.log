@@ -1,0 +1,36 @@
+﻿Timestamp	Filename	Error	Message
+2015-09-01 08:37:15.383 -0400	transducer.fmp12	0	Import operations started
+2015-09-01 08:37:15.383 -0400	transducer.fmp12	0	Import of custom functions from clipboard started
+2015-09-01 08:37:15.457 -0400	transducer.fmp12	0	custom functions imported : 14
+2015-09-01 08:37:15.458 -0400	transducer.fmp12	0	Import completed
+2015-09-01 08:37:50.505 -0400	transducer.fmp12	0	Import operations canceled
+2015-09-01 08:37:50.506 -0400	transducer.fmp12	0	==================================================================
+2015-09-01 08:38:44.888 -0400	transducer.fmp12	0	Import operations started
+2015-09-01 08:38:44.889 -0400	transducer.fmp12	0	Import of custom functions from clipboard started
+2015-09-01 08:38:44.956 -0400	transducer.fmp12	0	custom functions imported : 14
+2015-09-01 08:38:44.957 -0400	transducer.fmp12	0	Import completed
+2015-09-01 08:38:47.606 -0400	transducer.fmp12	0	Import operations committed
+2015-09-01 08:38:47.608 -0400	transducer.fmp12	0	==================================================================
+2015-09-01 08:39:21.185 -0400	transducer.fmp12	0	Import of scripts from clipboard started
+2015-09-01 08:39:21.190 -0400	reduce.left ( list, transform_Filter, reduce, seedValue )	0	script steps imported : 23
+2015-09-01 08:39:21.193 -0400	reduce.right ( list, transform_Filter, reduce, seedValue )	0	script steps imported : 22
+2015-09-01 08:39:21.194 -0400	transducer.fmp12	0	scripts imported : 2
+2015-09-01 08:39:21.194 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:08:25.039 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:08:25.041 -0400	execution wrapper	0	script steps imported : 6
+2015-09-01 09:08:25.041 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:08:40.142 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:08:40.143 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 09:08:40.143 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:09:31.976 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:09:31.978 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 09:09:31.978 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:09:52.365 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:09:52.367 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 09:09:52.367 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:10:07.611 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:10:07.613 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 09:10:07.613 -0400	transducer.fmp12	0	Import completed
+2015-09-01 09:10:16.835 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 09:10:16.837 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 09:10:16.837 -0400	transducer.fmp12	0	Import completed
