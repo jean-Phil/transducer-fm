@@ -34,3 +34,58 @@
 2015-09-01 09:10:16.835 -0400	transducer.fmp12	0	Import of script steps from clipboard started
 2015-09-01 09:10:16.837 -0400	execution wrapper	0	script steps imported : 1
 2015-09-01 09:10:16.837 -0400	transducer.fmp12	0	Import completed
+2015-09-01 19:52:08.660 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 19:52:08.661 -0400	execution wrapper	0	script steps imported : 4
+2015-09-01 19:52:08.661 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:07:16.713 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:07:16.715 -0400	execution wrapper	0	script steps imported : 4
+2015-09-01 20:07:16.715 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:11:23.707 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:11:23.709 -0400	execution wrapper	0	script steps imported : 2
+2015-09-01 20:11:23.709 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:11:30.430 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:11:30.431 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 20:11:30.431 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:13:35.052 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:13:35.054 -0400	execution wrapper	0	script steps imported : 1
+2015-09-01 20:13:35.054 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:15:04.312 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:15:04.314 -0400	reduce.right ( list, transform_filter, reduce, seedValue )	0	script steps imported : 14
+2015-09-01 20:15:04.314 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:18:57.574 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:18:57.576 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 14
+2015-09-01 20:18:57.576 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:19:19.740 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:19:19.743 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 8
+2015-09-01 20:19:19.743 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:20:48.074 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:20:48.076 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 7
+2015-09-01 20:20:48.077 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:23:08.311 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:23:08.312 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 1
+2015-09-01 20:23:08.313 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:24:06.534 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:24:06.535 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 2
+2015-09-01 20:24:06.535 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:26:52.866 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:26:52.868 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 1
+2015-09-01 20:26:52.868 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:27:21.882 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:27:21.883 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 1
+2015-09-01 20:27:21.883 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:27:32.336 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:27:32.337 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 1
+2015-09-01 20:27:32.338 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:28:55.735 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:28:55.736 -0400	reduce.left ( list, transform_filter, reduce, seedValue )	0	script steps imported : 1
+2015-09-01 20:28:55.736 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:30:06.695 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:30:06.697 -0400	reduce.right ( list, transform_filter, reduce, seedValue )	0	script steps imported : 7
+2015-09-01 20:30:06.698 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:30:35.689 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:30:35.692 -0400	reduce.right ( list, transform_filter, reduce, seedValue )	3703	Unknown Error: <unknown>.
+2015-09-01 20:30:35.692 -0400	reduce.right ( list, transform_filter, reduce, seedValue )	0	script steps imported : 7
+2015-09-01 20:30:35.692 -0400	transducer.fmp12	0	Import completed
+2015-09-01 20:31:04.537 -0400	transducer.fmp12	0	Import of script steps from clipboard started
+2015-09-01 20:31:04.538 -0400	reduce.right ( list, transform_filter, reduce, seedValue )	0	script steps imported : 11
+2015-09-01 20:31:04.538 -0400	transducer.fmp12	0	Import completed
